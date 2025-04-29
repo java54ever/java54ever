@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @java54ever
 - 👀 I’m interested in cloud development
-- 🌱 I’m currently learning GCP ans AWS
+- 🌱 I’m currently learning GCP and AWS
 - 💞️ I’m looking to collaborate on knwoledge sharing
 - 📫 How to reach me test@test.io
 - 😄 Pronouns: none
